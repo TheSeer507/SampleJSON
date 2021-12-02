@@ -66,7 +66,7 @@
         "Proxy Settings",
         "MFA",
         "Pulse stuck on Securing Connection",
-        "VDI Performance || VDI Slow || VMware Blast Configuration",
+        "VDI Performance || VDI Slow || VMware Blast Configuration"
 	
 ]
 
